@@ -1,0 +1,138 @@
+
+
+p { 
+	color:  white;
+	font-size: 20px
+	}
+
+.iksweb1{display: inline-block;cursor: pointer; font-size:15px;text-decoration:none;padding:9px 27px; color:#ffffff;}
+
+.iksweb1:hover{color:#c70404;transition: all 0.3s ease;}
+
+
+.project{display: inline-block;cursor: pointer; font-size:26px;text-decoration:none;padding:12px 17px; color:#ffffff;background:#866bc9;border-radius:0px;border:3px solid #a6a6a6;}
+.project:hover{background:#aa7be8;color:#74519c;transition: all 0.2s ease; font-size:27px; padding:17px 20px;}
+
+.down {
+  margin: 10px;
+  padding: 20px;
+  text-align: center;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  box-shadow: 0 2px 20px -5px grey;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: 600;
+ }
+
+ .down {
+  background-image: linear-gradient(to right, #c33034 0%, #fda085 51%, #c33034 100%);
+}
+ 
+/* здесь начинается волшебство */
+.down:hover {
+  background-position: right center; /* изменить направление движения цвета можно здесь */
+  color: #ffffff;
+}
+
+.topl {
+  margin: 50px;
+  padding: 100px;
+  text-align: center;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  box-shadow: 0 2px 20px -5px grey;
+  cursor: pointer;
+  font-weight: 600;
+ }
+
+ .topl {
+  background-image: linear-gradient(to right, #c33034 0%, #fda085 51%, #c33034 100%);
+}
+ 
+/* здесь начинается волшебство */
+.topl:hover {
+  background-position: right center; /* изменить направление движения цвета можно здесь */
+  color: #ffffff;
+}
+
+.btn1{display: inline-block;cursor: pointer; font-size:29px;text-decoration:none;padding:4px 11px; color:#000000;background:#db2a2a;border-radius:60px;border:14px solid #a6a6a6;}
+.btn1:hover{background:#ff0000;color:#ffffff;border:14px solid #ffffff;transition: all 0.2s ease;}
+
+.gryver{display: inline-block;cursor: pointer; font-size:16px;text-decoration:none;width: 214px; height: 30px; color:white;background:#1c1c1c;border-radius:0px;border:0px solid #a6a6a6;}
+
+table{
+	table-layout: fixed;
+}
+
+#tabl{
+	position: relative;
+	left: 15px;
+    color: #244a18;
+    top: 1px;
+    border: 2px solid #660c0c;
+    font-size: 20px;
+    border-radius:10px;
+}
+
+.prokrutka {
+height: 290px; /* высота нашего блока */
+width: 100%; /* ширина нашего блока */
+border: 1px solid #C1C1C1; /* размер и цвет границы блока */
+overflow-x: scroll; /* прокрутка по горизонтали */
+overflow-y: hidden; /* прокрутка по вертикали */
+}
+
+
+
+.lazergiver{
+	width: 270px; 
+}
+
+.kakarduino:hover{font-size: 20px; color:#c70404;transition: all 0.3s ease;}
+
+
+.iksweb{
+	font: 12pt/10pt sans-serif;
+	display: inline-block;
+	cursor: pointer; 
+	font-size:15px;
+	text-decoration:none;
+	padding:7px 27px; 
+	color:#000000;
+	background:#d10007;
+	border-radius:10px;
+  border:3px solid #660c0c;
+}
+
+.iksweb:hover{background:#571212;
+	color:#ffffff;
+	border:3px solid #354251;
+  transition: all 0.6s ease;
+}
+
+#tabl1{
+	color: black;
+    background-color: #30a80c;
+    top: 1px;
+    right: 100px;
+    font-size: 60px
+  }
+
+  
+
+
+
+
+
+#fas{
+	color: black;
+	background-color: #a80c0c;
+	font-size: 20px;
+	padding: 20px;
+	border-radius: 10px;
+	font-weight: 200px;
+}
+
